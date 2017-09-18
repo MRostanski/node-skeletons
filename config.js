@@ -1,5 +1,5 @@
 var config = {
-    appName : 'AWS Control',
+    appName : 'AWS Control - skeleton',
     companyName : 'Incuvo',
     mongodb : {
         server : '52.52.230.127', //'development.castle-api.castlerevenge.com', //
